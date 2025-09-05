@@ -3,7 +3,7 @@
 A simple and responsive camera app built with Nuxt.js, Vue 3, and TypeScript.
 It lets you open your device camera, snap photos, and keep them saved locally in a small gallery.
 
-[Live Demo](https://your-vercel-deployment-url.vercel.app)
+[Live Demo](https://inspection-app-iota.vercel.app/)
 
 ## Features
 
@@ -20,10 +20,11 @@ It lets you open your device camera, snap photos, and keep them saved locally in
 - Tailwind CSS
 - Heroicons
 
-
 ### Installation
+
 ```bash
 git clone <repo-url>
 cd inspection_app
 npm install
 npm run dev
+```
