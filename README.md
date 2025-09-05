@@ -31,4 +31,4 @@ npm run dev
 
 ### Limitations
 
-- i built it for the web and its
+- i built it for the web and its Limitations
