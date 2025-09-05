@@ -12,7 +12,7 @@
 
     <!-- Top Instruction Overlay -->
     <div
-      class="absolute top-0 right-1 w-[400px] bottom-0 p-6 backdrop-blur-sm z-10"
+      class="absolute top-0 right-1 md:w-[400px] bottom-0 p-6 backdrop-blur-sm z-10"
       :style="{
         background:
           'linear-gradient(0deg, rgba(85, 85, 85, 0.6), rgba(85, 85, 85, 0.6)), linear-gradient(180deg, rgba(124, 124, 124, 0.2) 0%, rgba(255, 255, 255, 0) 100%)',
