@@ -28,3 +28,7 @@ cd inspection_app
 npm install
 npm run dev
 ```
+
+### Limitations
+
+- i built it for the web and its
